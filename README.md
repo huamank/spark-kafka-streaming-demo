@@ -61,7 +61,7 @@ Se incluye un notebook productor de datos de ejemplo y un notebook que consume m
     ```
     El flag --from-beginning lee desde el inicio, y --max-messages limita la cantidad.
 
-## Ejecutar los notebooks en Jupyter
+## ⚙️ Ejecutar los notebooks en Jupyter
 Abre http://localhost:8200 y carga:
 
 * python/producers/producer_orders.ipynb → envía eventos al tópico orders.
