@@ -1,7 +1,7 @@
 # 🐳 Spark + Kafka Streaming Demo
 
 Este repositorio contiene un entorno Docker Compose para probar **Spark Structured Streaming con Kafka**.  
-Se incluye un productor de datos de ejemplo y un job de Spark que consume mensajes en tiempo real.
+Se incluye un notebook productor de datos de ejemplo y un notebook que consume mensajes en tiempo real.
 
 ---
 
